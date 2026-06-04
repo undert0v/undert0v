@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A creative software engineer from Türkiye</h3>
-
+-Field-Ready
 - 🌱 I’m a MES Software Devloper
 
 <h3 align="left">Connect with me:</h3>
